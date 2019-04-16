@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Gian%20Piero/Documents/NetBeansProjects/TesteSistemaDeChamados/src/controle/ControleTecnicos.java</file>
+            <file>file:/C:/Users/Gian%20Piero/Documents/NetBeansProjects/TesteSistemaDeChamados/test/SistemaChamadosMainTest.java</file>
+            <file>file:/C:/Users/Gian%20Piero/Documents/NetBeansProjects/TesteSistemaDeChamados/src/SistemaChamadosMain.java</file>
+            <file>file:/C:/Users/Gian%20Piero/Documents/NetBeansProjects/TesteSistemaDeChamados/src/apresentacao/TelaCadastroCliente.java</file>
+            <file>file:/C:/Users/Gian%20Piero/Documents/NetBeansProjects/TesteSistemaDeChamados/src/entidade/Tecnico.java</file>
+            <file>file:/C:/Users/Gian%20Piero/Documents/NetBeansProjects/TesteSistemaDeChamados/src/controle/IControlador.java</file>
+            <file>file:/C:/Users/Gian%20Piero/Documents/NetBeansProjects/TesteSistemaDeChamados/src/entidade/SistemaOperacional.java</file>
+            <file>file:/C:/Users/Gian%20Piero/Documents/NetBeansProjects/TesteSistemaDeChamados/src/entidade/Status.java</file>
+            <file>file:/C:/Users/Gian%20Piero/Documents/NetBeansProjects/TesteSistemaDeChamados/test/entidade/PessoaTest.java</file>
+            <file>file:/C:/Users/Gian%20Piero/Documents/NetBeansProjects/TesteSistemaDeChamados/test/entidade/EmpresaTest.java</file>
+            <file>file:/C:/Users/Gian%20Piero/Documents/NetBeansProjects/TesteSistemaDeChamados/src/entidade/Pessoa.java</file>
+            <file>file:/C:/Users/Gian%20Piero/Documents/NetBeansProjects/TesteSistemaDeChamados/src/controle/ControleChamados.java</file>
+            <file>file:/C:/Users/Gian%20Piero/Documents/NetBeansProjects/TesteSistemaDeChamados/src/apresentacao/TelaCadastroTecnico.java</file>
+            <file>file:/C:/Users/Gian%20Piero/Documents/NetBeansProjects/TesteSistemaDeChamados/src/entidade/BancoDeDados.java</file>
+            <file>file:/C:/Users/Gian%20Piero/Documents/NetBeansProjects/TesteSistemaDeChamados/src/entidade/RegistroChamado.java</file>
+            <file>file:/C:/Users/Gian%20Piero/Documents/NetBeansProjects/TesteSistemaDeChamados/src/entidade/ClienteEmpresa.java</file>
+            <file>file:/C:/Users/Gian%20Piero/Documents/NetBeansProjects/TesteSistemaDeChamados/src/entidade/TipoConexao.java</file>
+            <file>file:/C:/Users/Gian%20Piero/Documents/NetBeansProjects/TesteSistemaDeChamados/src/controle/ControladorPrincipal.java</file>
+            <file>file:/C:/Users/Gian%20Piero/Documents/NetBeansProjects/TesteSistemaDeChamados/src/entidade/TipoProblema.java</file>
+            <file>file:/C:/Users/Gian%20Piero/Documents/NetBeansProjects/TesteSistemaDeChamados/src/Persistencia/EmpresaDAO.java</file>
+            <file>file:/C:/Users/Gian%20Piero/Documents/NetBeansProjects/TesteSistemaDeChamados/src/apresentacao/TelaCadastroChamado.java</file>
+            <file>file:/C:/Users/Gian%20Piero/Documents/NetBeansProjects/TesteSistemaDeChamados/src/apresentacao/TelaPrincipal.java</file>
+            <file>file:/C:/Users/Gian%20Piero/Documents/NetBeansProjects/TesteSistemaDeChamados/src/Persistencia/ChamadoDAO.java</file>
+            <file>file:/C:/Users/Gian%20Piero/Documents/NetBeansProjects/TesteSistemaDeChamados/src/entidade/Chamado.java</file>
+            <file>file:/C:/Users/Gian%20Piero/Documents/NetBeansProjects/TesteSistemaDeChamados/src/Persistencia/ClienteDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
